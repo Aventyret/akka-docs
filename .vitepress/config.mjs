@@ -9,8 +9,9 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Overview', link: '/overview' },
-      { text: 'Wordpress plugin', link: '/plugin' },
+      { text: 'Wordpress plugins', link: '/plugins' },
       { text: 'Theme development', link: '/theme' },
+      { text: 'NextJS app', link: '/www' },
       { text: 'JS Modules', link: '/modules' }
     ],
 
@@ -22,9 +23,9 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Wordpress plugin',
+        text: 'Wordpress plugins',
         items: [
-          { text: 'Plugin', link: '/plugin' }
+          { text: 'Plugin', link: '/plugins' }
         ]
       },
       {

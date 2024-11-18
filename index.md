@@ -11,11 +11,14 @@ hero:
       text: Quick overview
       link: /overview
     - theme: alt
-      text: Wordpress plugin
-      link: /plugin
+      text: Wordpress plugins
+      link: /plugins
     - theme: alt
       text: Theme development
       link: /theme
+    - theme: alt
+      text: NextJS app
+      link: /www
     - theme: alt
       text: JS Modules
       link: /modules
