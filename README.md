@@ -1,3 +1,3 @@
-# Akka Documentation
+# Akka-dokumentation
 
-Documentation for Akka – the headless Wordpress stack Akka
+Dokumentation för Akka – den headless Wordpress-stacken Akka
